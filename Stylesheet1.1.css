@@ -1,0 +1,39 @@
+
+
+body {
+    font: 16px "Orator Std";
+}
+
+h1 {
+    color: springgreen
+}
+
+.top {border-radius: 5% 8% 10% 30%;
+float: left;}
+.middle {border-radius: 8% 30% 5% 10%;
+float: left}
+
+img {
+    margin: 0 30%;
+}
+
+h2 {
+    color: springgreen
+}
+
+h3 {
+    color: springgreen;
+    margin: 5% 30%;
+}
+
+.gelb {
+    background-color: lightgreen;
+    text-align: justify;
+    padding: 10px 20px;
+    margin: 0 30%;
+    /*border-radius: 10%;*/
+}
+.rot {background-color: red;
+    color: lightgreen;
+    /*border-radius: 50%;*/
+}
